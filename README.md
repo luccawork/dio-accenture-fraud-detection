@@ -5,7 +5,7 @@ Desenvolvido por Lucas Rodrigues.
 
 O objetivo vai ser desenvolver um modelo preditivo que consiga identificar transações legítimas e diferencia-las de transações fraudulentas. Será utilizado um dataset onde apenas 0,17% das transações são fraudes.
 
-Fraudes em transações financeiras representam um problema 'BI'lionário para as instituições. As perdas globais com fraudes em cartões são grandiosas e um número que já era grande está aumentando graças a presença da IA.
+Fraudes em transações financeiras representam um problema _**Bi**_ lionário para as instituições. As perdas globais com fraudes em cartões são grandiosas e um número que já era grande está aumentando graças a presença da IA.
 
 Defini alguns paramêtros que o sistema de detecção precisa atender:
 
