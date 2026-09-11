@@ -37,8 +37,9 @@ Custo dos erros
 
 - Falso negativo = deixar passar uma fraude !!! custo altíssimo
 - Falso positivo = bloquear compra legítima ! custo moderado (cliente insatisfeito)
+
 Método
-O projeto segue o fluxo padrão de um pipeline de Machine Learning:
+- O projeto segue o fluxo padrão de um pipeline de Machine Learning:
 
 Análise Exploratória (EDA) → Entender os dados
 Pré-processamento → Preparar as features
