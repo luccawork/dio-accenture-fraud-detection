@@ -35,8 +35,8 @@ Graças a compressão de dados do PCA utilizando matemática para compilar os co
 Apenas Time e Amount são interpretáveis
 Custo dos erros
 
-Falso negativo = deixar passar uma fraude !!! custo altíssimo
-Falso positivo = bloquear compra legítima ! custo moderado (cliente insatisfeito)
+- Falso negativo = deixar passar uma fraude !!! custo altíssimo
+- Falso positivo = bloquear compra legítima ! custo moderado (cliente insatisfeito)
 Método
 O projeto segue o fluxo padrão de um pipeline de Machine Learning:
 
